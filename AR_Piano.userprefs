@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{93E7FF03-CB2E-0209-CB33-EB871D316D37}|">
+  <MonoDevelop.Ide.ItemProperties.AR__Piano PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/quitApplication.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="71" Column="17" />
+      <File FileName="Assets/loadSceneOnClick.cs" Line="10" Column="17" />
+      <File FileName="Assets/quitApplication.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

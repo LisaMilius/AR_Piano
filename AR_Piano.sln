@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Piano", "AR_Piano.csproj", "{93E7FF03-CB2E-0209-CB33-EB871D316D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Piano.Plugins", "AR_Piano.Plugins.csproj", "{9B3C0FD8-83BE-115F-3780-42C3267A34A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Piano.Editor.Plugins", "AR_Piano.Editor.Plugins.csproj", "{B3938BE0-25A3-70C5-BC6D-D3C6AACE21DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Piano.Editor", "AR_Piano.Editor.csproj", "{8C20770C-2666-1B32-31DD-F8F4A0728287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E7FF03-CB2E-0209-CB33-EB871D316D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E7FF03-CB2E-0209-CB33-EB871D316D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E7FF03-CB2E-0209-CB33-EB871D316D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E7FF03-CB2E-0209-CB33-EB871D316D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3C0FD8-83BE-115F-3780-42C3267A34A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3C0FD8-83BE-115F-3780-42C3267A34A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3C0FD8-83BE-115F-3780-42C3267A34A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3C0FD8-83BE-115F-3780-42C3267A34A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3938BE0-25A3-70C5-BC6D-D3C6AACE21DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3938BE0-25A3-70C5-BC6D-D3C6AACE21DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3938BE0-25A3-70C5-BC6D-D3C6AACE21DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3938BE0-25A3-70C5-BC6D-D3C6AACE21DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C20770C-2666-1B32-31DD-F8F4A0728287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C20770C-2666-1B32-31DD-F8F4A0728287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C20770C-2666-1B32-31DD-F8F4A0728287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C20770C-2666-1B32-31DD-F8F4A0728287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
