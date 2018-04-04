@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/.android/build-cache/44ef8723016db1a137b5358282eb6c54275ac2ef/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_6e28ddd0b90cf27f3485b45fd7f70cc62d6e9458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/.android/build-cache/44ef8723016db1a137b5358282eb6c54275ac2ef/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_6ecb7f4397bc1c20a4bbe31b28746dac7b7b74f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/.android/build-cache/44ef8723016db1a137b5358282eb6c54275ac2ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a6300d53541fc52eafd8e398dfad935861c1ba20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/AR_Piano/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_562ca2f06800f7715af00b51caa6aee5415937f4.jar" />
+    </item>
+
+</items>

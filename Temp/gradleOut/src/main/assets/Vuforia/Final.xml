@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Final"/>
+</Tracking>
+
+<Assembly name="Finals_assembly">
+<Part name="Final" translation="0 0 0" rotation="AD: 0 0 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.639271 0.477557 1.15422" rotation="AD: 0.9999999998872617 0.002075519509540106 -0.007506430412903971 210.911">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

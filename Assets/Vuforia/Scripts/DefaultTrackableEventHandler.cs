@@ -67,7 +67,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     }
     public void resetTracking()
     {
-        Debug.Log("reset");
+        
         Start();
 
     }

@@ -321,10 +321,10 @@
     <Compile Include="Assets\loadSceneOnClick.cs" />
     <Compile Include="Assets\onclick.cs" />
     <Compile Include="Assets\quitApplication.cs" />
-    <Compile Include="Assets\reset.cs" />
-    <Compile Include="Assets\resetTarget.cs" />
+    <Compile Include="Assets\ResetTracking.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
+    <Compile Include="Assets\MyTrackableEventHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
@@ -336,6 +336,7 @@
     <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\StreamingAssets\Vuforia\Final.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\PianoComponents.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
